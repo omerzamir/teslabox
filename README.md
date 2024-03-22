@@ -1,5 +1,4 @@
 # TeslaBox
-Lite, open-source version of [teslarpi.com](https://www.teslarpi.com).
 
 Compresses Tesla dashcam and sentry clips, uploads to S3, notifies of events (along with a copy of each clip) via Telegram and allows remote streaming while parked or driving!
 
@@ -13,9 +12,6 @@ Compresses Tesla dashcam and sentry clips, uploads to S3, notifies of events (al
 - [AWS account](https://aws.amazon.com/)
 - [Ngrok account](https://ngrok.com/) (preferably paid)
 - [Telegram account](https://telegram.org/)
-
-## Installation
-For paid (priority) support please contact teslabox@payymail.com
 
 ### AWS (required for archiving)
 1. Sign into your AWS account
